@@ -86,7 +86,7 @@ The AI removes the background, takes a snapshot to inspect the result, detects r
 ```bash
 git clone https://github.com/maorcc/gimp-mcp.git
 cd gimp-mcp
-uv sync
+uv sync -p 3.13
 ```
 
 ### 2. Install the GIMP Plugin
